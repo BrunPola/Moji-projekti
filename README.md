@@ -12,7 +12,7 @@ Cilj projekta bio je pokazati i simulirati rad najpoznatijih CA i prikazati mogu
 Čitanje predlažem na linku: https://colab.research.google.com/drive/1zPVySn427CcyG-dQldmIL8gdYMLR7HNv?usp=sharing.
 
 # Istraživanje spolne pristranosti u doživljaju osobe među srednjoškolcima
-Ovaj projekt radio sam u grupu s još četvoro kolegica i kolega za kolegij _Statistika_ na 3. godini preddiplomskog studija (_Matematika_).
+Ovaj projekt radio sam u grupi s još četvoro kolegica i kolega za kolegij _Statistika_ na 3. godini preddiplomskog studija (_Matematika_).
 Moj doprinos projektu je odjeljak "**Opisna statistika**" (stranice 7 do 15, do odjeljka "Statistički testovi") i dio **zaključka**.
 
 Provedena anketa započela je tekstom o poslovnom i obiteljskom životu Ivana ili Ivane. Osim njihovog spola, ostatak teksta ostao je isti.
